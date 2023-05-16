@@ -5,16 +5,11 @@
 http://190.122.186.88:8000/play/a0hr/index.m3u8
 
 #EXTINF: El hombre del NORTE
-https://www-41t78257.ssl0d.com/hls2/TOx5u2Hq7dHfSz_UgSRSvg/1684224297/MxbBwgKarxhn6xSIPXhtMOPceiJfWkyBaXugde6xbRo/apaaVWYFdRRyRHnwx0uMtJ8oNHPiVyNGSbi7pzV1EBvXtwrpZlKY0jfSnXyIv3l2cgVUwR76wsMYKEFYYTs_1YTxCw6WDxuJHHw7dvlmWtq6CdSVW0jADsvunNQfreUF_z8-iTEMspvOESNOnrHy7ekjuoOgbxAo3nbcfkMy8OVy0buHn4RjMSw_IRVjC7tZg_KKVwlK3MKdw9tw5vSVkNJgqp2IvhgOXtpu6b9Y-hh9cUDlmAJeaAe--1PBo9pL/playlist.m3u8
 
 #EXTINF:-1 group-title="Bics", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0iz.png",SPACE HD
-https://usher.ttvnw.net/api/channel/hls/mt_116tm.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9762396&play_session_id=70d0dd7b7f26839ab299026ee4e86fe7&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=3d33dbdf869bdcdf2014aca2859378c68e62672a&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22mt_116tm%22%2C%22channel_id%22%3A833843377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222edde2d503c7faec%22%2C%22expires%22%3A1684025309%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.139.153.252%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.19.0
 
-#EXTINF:-1cinemax
-https://usher.ttvnw.net/api/channel/hls/cc_t25w.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=422450&play_session_id=a404dc0d3da52fd97d035bc0863d1105&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=70a3615ffca082206abbcf8ed0b82202ec982a08&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cc_t25w%22%2C%22channel_id%22%3A907257001%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222edde2d503c7faec%22%2C%22expires%22%3A1684025375%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.139.153.252%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.19.0
 
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0g9.png",TBS
 http://45.5.119.155:8000/play/a0g9/index.m3u8
@@ -23,10 +18,10 @@ http://45.5.119.155:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0hh.png",TLC
 http://45.5.119.155:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ih.png",Universal
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CogF-cgUowz6vdbZqlBD_DMnHboDdN7YPYYLMp6ytbJvCcycm-b2GO-losZNakzwQG9nJQ1fw5fEJop6Go6jgbTg9p9pLvj5NSHjAc9d62KV3rYuTYiJJdTX-udzTXzaKjYS-VFfvW9cCc6gfK1elGUKtVG9PSvzcNMPK25444VOGfl5EpBgQiRH9TJGRclaImINduFvKmWAzyUKWPCK4XtqN-Jt7ru3LRiSfrwl5xwLhRzMStGj8WT5E7y6AtV-t1RXXPAtLHNMsvJrT-m1_m_m5fQAK5n6fKHnaD_5RSUDJegFAPSDgJ0PUNCcgScnKmSnDCv5FwG5cCdiABNjxYlup-c6uqjtXuvrv0aQWjrq9mECFi9NmWXxd4YM9MLrsifYBIKyUka1l1zSBvoCaW6hvwuUCVueq3ELGUA4NtFjI4Ivw3VG9UA7mZpkQl01u9pa4gUIBYeUXt68dYlHeWVcuBkYrF_jS7k9_zCrVnKYJgdjOyUJ5oMyPW8XgaYX7Rs89jfIxV6UeRoLXYIian-8-Kffj1j-A4toWM87KwBdRpTNJ8nf0z9TbnXKBqa9fw8BMv4-eXrORUc86gsEb63D2VLKzgB6jEEcM7hQ-Vv1v8QcL3zc1GdyZ-na1jLRdWMwdzZoAkmvRvC_VsAZcoqVHzXBdHMI-eV5TqfwyXvCPx9Jfq0ZRsmjYs6XbT5Kr5fZOcDYWv6Oskm7tWN6cYKRVe_T27n3fpxxl5Si6suoJSZXB-PY4-5hy0P9KyraDKRDcP0hwFgfFzo40dyA6UVyLN0NjN_u8vYShqCJTpNZ4D4PxHLtLfFGqNufDIAray3nBG60CkzXSTEw8P8-S5ry1h0l46nr1a9aGgy6wFaclmDy3K2QUPogASoJZXUtd2VzdC0yMMgG.m3u8
+http://204.157.255.28:20001/play/a02w/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ho.png",WARNER HD
-https://usher.ttvnw.net/api/channel/hls/2war011.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=5981294&play_session_id=0c5328000779eabf944b4d5f507c2c25&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=19bf660e94e893d07c68c4efd4a3f700e7f7bb6a&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%222war011%22%2C%22channel_id%22%3A827726132%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222edde2d503c7faec%22%2C%22expires%22%3A1684025415%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.139.153.252%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.19.0
+#EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0ho.png",WARNER
+http://204.157.255.28:20001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a0fv.png",Canal Claro
 http://45.5.119.155:8000/play/a0fv/index.m3u8
@@ -34,6 +29,22 @@ http://45.5.119.155:8000/play/a0fv/index.m3u8
 http://45.5.119.155:8000/play/a0ik/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.5.119.155:8000/playlist/tvg-logo/a049.png",Discovery ID HD
+http://204.157.255.28:20001/play/a03j/index.m3u8
+
+#EXTINF:-1,Discovery channel
+http://204.157.255.28:20001/play/a036/index.m3u8
+
+#EXTINF:-1,STAR
+http://204.157.255.135:20001/play/a046/index.m3u8
+
+#EXTINF:-1,FX
+http://204.157.255.28:20001/play/a03y/index.m3u8
+
+#EXTINF:-1,cinemax
+http://204.157.255.28:20001/play/a03u/index.m3u8
+
+#EXTINF:-1,Sony
+http://204.157.255.28:20001/play/a03v/index.m3u8
 
 #EXTINF:-1,CANAL 1
 http://200.6.189.28:8000/play/a00e
@@ -41,24 +52,32 @@ http://200.6.189.28:8000/play/a00e
 #EXTINF:-1,Animal Planet HD
 http://191.215.163.13:8000/play/a0e3/index.m3u8
 #EXTINF:-1,AXN
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoMFTnwXj7Gm504gg-jlpo-CHpDDZgFA-kwyi-Onpbth0v9lFGU33jpvYQBn9XO3EBzKxUYr-bf2I4WVAfOraxIYpLj4A8yVokX2Gh3iOmDVa6DFoEPotKhb5UFdQd_4_dr8o35F7kM5cbwiwt9NYnxlWln6jTUv_4cOaR4s4egfAxpiXKbO4PuEoPwMvAn2xDZH7-YfPs2MNv2iKvB3VmZMHvxnid9YwvVHEnyWzAo_Y2L2g1t7cT7mXf4G_gjz5o_4baASVy2d0U5-fXey4YFc7_IBx4-ZQ5Ln3D1kqBQ15N46NThF6Sxbqrl23A4IJW5og6453yMO9YaPdq5AfaDguhDFiS3fWVnf93y3Iz6J1AZNb07FW-c2ifVa_kA4VtoJMjZiOyz-Ytg6SxsujJLvICLcOFHARbH9Z-mf5QKOAJYyYGq4MV5f2VlgVK1P6RJ7yEAiy9t9bmSbU8EpQGfkMabLozyzGa7wtV_tS9hvnE-f3QmR_OYnxYhq2i3hQUMZv4oiMDCVtF2cBzpyATI-DZluxTk0WkWuRzksMiPU6cPdZMui4wh_toLF3tXFqDof_kZLX6aDiuMiVe9jNXDfkh1Po1GP-lucnqwNSN3XbzXHFKS9CTC_yj04ELy8I1Z4A6U899BkmgEqxPcagDTJxpd96MIcjwBuDntAAdT4tsk8fIuGistEebqhbgNTPLmfR0c1vUNTHntGCd3Xuyv0pE9HlaNbGvqPs0xqSuD85dPnfNEQZZRXYyBRirBjf9JXyzZB_--KVK6zzc24XKw6qIDpaYUUcahZKQQmpk3Hk1EM7U00nylMIYLCNZixbtyOGp27LIfdUY228fswAfMxO0LqEBoM7joEbI2NT6WTD5QOIAEqCWV1LXdlc3QtMjDHBg.m3u8
 
 #EXTINF:-1,TNT
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Co4FXAwLpcRyYpf5WY0bp7-BL0qUo5zRYyMURZ8WqtXyYrBcozPd-MnDqUDvGbSOH-8tkf_kerfZbrP91z3nW5Prx0CI3gdRbwOKmLaU0YQ0whUz3zhksuT8u_V7IOlRPgv8a9ktksgcMIoz3nLuS1MGZ_iaL0rh457Yk0fPGtKc7sbjXBQmv2gjnN_zzw154Xhmq6jEyKbh2qUxS30mQjfv60NcTHIDzYrHlmTk49G6hOJInAUQgJ06WKnUwEDGzSxzSANsKeBc6aC_nqZoj_oAwEIh-JO4WuYqV7CENELzP1-rCNgxI9aRisBHO7NZkz875cf7G2TMcptEKcrKkKX8YTdcB5xr2hIZMBEA9Rk1yii7ZTlbArZ2JQQz7GBZutCh5E6ccTrCTIoM0MoRsttA_x2pTcjTQWZNy_qZVpPfmuQh16bLvRk5HQ4QVdQYk_d-7pfz-fsyk9pLFtScORM8GMgWC3wHnF3O2Oic7La2ntIwdAMyIstt5P718znpcVzPyiyZC1sopueibzMcPGZyTOZHVsQrHsq0mcCu5oW5ul6T-JChZga7sQjjg3vDhYOQpaGnlHnjf5TXdeQlxd00MMa98MO7GketJy9amMHh8Qn7e9mDROYL57tRGdwaejzM1wotYA1XswQ8WLBGh7Hsz02tE8g3LnsODVlbbra7kYFVkF6Pobghhn_aDvBEusNk0jjx2Fj9oHVrvf3Rz4HEtjr8SxLK_6hXRsSV1HozqysK8e9bo-AhSLC_Ornp3Xvk-XcK92Qrs3k5MmpSigx1HZPbu9JUYFI4MjCoCJX3SioL44JRgzyYHbfNrWFK_iajEOFw11ZAfZ0obKBVzBH7-xyi7mXgoGnPKHFuZhyRGgy9se5BHiEykrznB8MgASoJZXUtd2VzdC0yMMgG.m3u8
+http://204.157.255.28:20001/play/a034/index.m3u8
 
 #EXTINF:-1,FOX
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CosFhZ5cQp7z5bleApYq1COQAtBpWgMAm0UVcBU87IvWc-1apmI1_5IWyAcYTHQsz68FDswsHMghzQJx2zd0viKYL4LtVOd2PwV-aRXWpe9KIvyKqMAHG34GEVrkWMWT4LVdcniQkVcAgpYclUlkoHSUuDpLj83yRBoMCtpne-YEcVJ0g2pHkmRWxO38jnB5mWt97p5HvE2LB720yeAkd4Q4y02Nn-3BWZs9VSnCpdtgmVzrgUzmpCaY7gXa1xB0aIrL-7gU4Qn3OTXPc1IPUpt8UpjQOPsINtsSpSckfcrPrPrHFb5R537ofyPgOtbt927d8thZIAGtwkf2SoXiBmXBLMdtE_x4g82LakPY2HsQprvsVISHidZLM5BoZx_AKR5zRaPnAAqp4_cOgNWWAOQ3RSUr9ybRKJpq261zwJX1oIA88Sdpsp7VmrzY1-OeVm6-hH4q9m61dHDIEeC4jIyuB5DFfgtH7PoGRLajJLvrOgJ58ABkafCPQzW4pGYiHwyqgmFaGJ68oXaUtTmdgd36X2ITatZPgD1pjqlU0LmY1jp1NqY3UGrZW9MYQw5RJWdfVDGNiahuNHfF2XikkVgqy2kaq9qc6JYWrkKbtuB4rZXZqtTIRwWW2GnkKCfFfn2eIuFME_YXx-tcVsNYUl5ViOBul9mMEK_EG5-nJCSM0BySHLKIl_W-7bJXT8chMgbkMxJ1wtk8rZ8jrekaOcJuJ7CtoQZOhHD64Ody7C5IG8fIadM2NW-H7RKJlUMrFlD8CY9IJruZxJuc2yi_yewWhKWpUTb4JOKJSk938e6hTpuC8zpm4Ys8gb4qQVf9mbuZWCQiVzsKm-uVTlW91KBpQNps0LfZ2F70z2JXGgy7nhVUXgsInNGGZ5kgASoJZXUtd2VzdC0yMMgG.m3u8
+
 
 #EXTINF:-1,HBO
-https://usher.ttvnw.net/api/channel/hls/bocx148.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=1942038&play_session_id=b9308879f74454d4c865587be4d65239&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=abbb04e912e3a74f66eac865ee4021db0a91d641&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22bocx148%22%2C%22channel_id%22%3A834704862%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222edde2d503c7faec%22%2C%22expires%22%3A1684025009%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.139.153.252%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.19.0
-
+http://200.6.189.28:8000/play/a02n
 #EXTINF:-1,HBO 2
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CocFOTnBsI6PKf06XGkg_AozrSa2h9NLr17LssWVwSa25bWuIFpr8idFzi7WEQ7zO5tpKad5kCEzr-VVESPxnVPYKkNN9kYd0AK7SqROZDrjQC2CUHcgQR2p7BZvUfv3wgZ1Ee0sfxhdUDz_Ag7ZGhQa8WuKM2XdG-TGGIH9nVxBMZAuhoaXFyI1DU-163cbsP05RG9_MS01tQFuVve0ra9tAXzydncslEe4eQ-1oyEQX8SPe4ANroaN6m0WdKWrKCr0Dvd0avsDxqQBTIqYaZ49NmwIyV-3SrsfmuwBw2_FK97ahWlTH1HRQ57or4SqYHYqE0Tv_SlXilZC2pUcHMzaQthD76jKyBoRmDYf70Cgr56s79ALeAUfbD7ohLR0LzYNxmlZ1o0ng9MpOIODMxPr8Wmp4NEzXmgvBORjYey0p752fHMARsc9sWvvxgPDjIksKTir_avmHlbYAAOCecTF1YzrCzE4ICH7FEVAosa-7JxIOmxLbV2j9Y3IHDJd0UaprvLScznXjp3YlI2na7lJUQs0_EeanrZyVP5vsNQTsIs1KRwkN72xI8S5OON7SlhPnLJzh13J1kK7jixYDkl59EuCiZXalSwvDsjM19dK0xYxOToVoz9hWITPq5udSzVX9acE2YckaqfSRA7oYCQ2M3Y_npwqVBV-mwYhzp8UwcQK_2XRbUn2OINEYt_gv9F7FKFJ0srhDj8E1Dnkq-47iqS7qe3ehvAa9l3N32G3xessWPwk1IjVJTdBp4gsOOCvJ-VQzAF45X69tKUYmlS11yLqPNt45Mf3PZVxxdRQ7iCwDXgxdIp1wXRA1STUY059ANHIaVnWFbomZ3jmxZxsQer_dYW0tGAaDM3R77oEaGT-ixvGbSABKglldS13ZXN0LTIwyAY.m3u8
-#EXTINF:-1,Discovery Channel HD
+http://200.6.189.28:8000/play/a01b
 
+#EXTINF:-1,HBO plus
+http://200.6.189.28:8000/play/a01c
+
+#EXTINF:-1,HBO XTREME SD
+http://200.6.189.28:8000/play/a01d
+
+#EXTINF:-1, space hd
+http://204.157.255.26:20001/play/a063/index.m3u8
 
 #EXTINF:-1,CINE HISPANO HD- SR
 http://190.90.251.194:8921/play/a02y/index.m3u8
+
+#EXTINF:-1,Zona Latina
+http://204.157.255.135:20001/play/a02z/index.m3u8
 
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -68,3 +87,9 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
+
+#EXTINF:-1,Win Sport
+http://200.6.189.28:8000/play/a02u
+
+#EXTINF:-1,Win Sports+ HD
+http://200.6.189.28:8000/play/a05z
