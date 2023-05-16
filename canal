@@ -4,7 +4,12 @@
 #EXTINF:-1,007. A&E
 http://190.122.186.88:8000/play/a0hr/index.m3u8
 
-#EXTINF: El hombre del NORTE
+#EXTINF: jhon wick 4 
+https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v3.1680181895.360.m3u8
+#EXTINF: jhon wick 4 HD
+https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v3.1680181895.720.m3u8
+
+
 
 #EXTINF:-1 group-title="Bics", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
