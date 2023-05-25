@@ -4,11 +4,10 @@
 #EXTINF:-1,007. A&E
 http://190.122.186.88:8000/play/a0hr/index.m3u8
 
-#EXTINF: jhon wick 4 
-https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v3.1680181895.360.m3u8
-#EXTINF: jhon wick 4 HD
-https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v3.1680181895.720.m3u8
-
+#EXTINF: el ultimo duelo
+https://delivery122.akamai-video-content.com/hls2/01/03245/ppgy9ufydo01_l/index-a1.m3u8?t=0dVRa_a2R_aHwgvLciNO9EIhYuGU8dYyGNieD5AzlfI&s=1684983611&e=10800&f=17035001&srv=sto070&client=181.139.156.75&asn=13489
+#EXTINF: el ultimo duelo
+https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/961ddc3fd77d10954c768db57f2a715e/EP.0.1.v2.1679647895.360.m3u8
 
 
 #EXTINF:-1 group-title="Bics", TIGO SPORTS
