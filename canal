@@ -3,6 +3,8 @@
 
 #EXTINF:-1,007. A&E
 http://190.122.186.88:8000/play/a0hr/index.m3u8
+#EXTINF: sound of freedom
+https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/315c22656aa1576de3e52e3a2b8808603a859bd1cd35cd892a4484f539278ef75b404cb6735f245c2889d21ae23d094c149f7ebc4529788ed8438778fc780c5c9539c0cd58c6f06683126b445d8834ee57cfaffee3092ea63f1fc84240bcfb1905807a5f8ad3127680048eb46a8f9e498413df2037881ce34b7f8903e5a0cebfac686033810d1649ea6b76fe1ede1899bd00b0facd235a1e2bec2a2e4ce1ec99/360/index.m3u8
 
 #EXTINF: el ultimo duelo
 https://delivery122.akamai-video-content.com/hls2/01/03245/ppgy9ufydo01_l/index-a1.m3u8?t=0dVRa_a2R_aHwgvLciNO9EIhYuGU8dYyGNieD5AzlfI&s=1684983611&e=10800&f=17035001&srv=sto070&client=181.139.156.75&asn=13489
